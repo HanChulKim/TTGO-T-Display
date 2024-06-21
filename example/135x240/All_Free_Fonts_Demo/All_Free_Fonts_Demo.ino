@@ -38,7 +38,7 @@
   #########################################################################
 */
 
-#define TEXT "aA MWyz~12" // Text that will be printed on screen in any font
+#define TEXT "aA Yz~12" // Text that will be printed on screen in any font
 
 #include "Free_Fonts.h" // Include the header file attached to this sketch
 
@@ -75,308 +75,308 @@ void loop() {
   
   tft.fillScreen(TFT_BLACK);            // Clear screen
   tft.setFreeFont(FF18);                 // Select the font
-  tft.drawString(sFF1, 160, 60, GFXFF);// Print the string name of the font
+  tft.drawString(sFF1, 110, 30, GFXFF);// Print the string name of the font
   tft.setFreeFont(FF1);                 // Select the font
-  tft.drawString(TEXT, 160, 120, GFXFF);// Print the string name of the font
+  tft.drawString(TEXT, 120, 90, GFXFF);// Print the string name of the font
   delay(1000);
   //tft.fillScreen(TFT_BLACK);
   tft.setFreeFont(FF18);                 // Select the font
-  tft.drawString(sFF2, 160, 60, GFXFF);// Print the string name of the font
+  tft.drawString(sFF2, 110, 30, GFXFF);// Print the string name of the font
   tft.setFreeFont(FF2);
-  tft.drawString(TEXT, 160, 120, GFXFF);
+  tft.drawString(TEXT, 120, 90, GFXFF);
   delay(1000);
   //tft.fillScreen(TFT_BLACK);
   tft.setFreeFont(FF18);                 // Select the font
-  tft.drawString(sFF3, 160, 60, GFXFF);// Print the string name of the font
+  tft.drawString(sFF3, 110, 30, GFXFF);// Print the string name of the font
   tft.setFreeFont(FF3);
-  tft.drawString(TEXT, 160, 120, GFXFF);
+  tft.drawString(TEXT, 120, 90, GFXFF);
   delay(1000);
   //tft.fillScreen(TFT_BLACK);
   tft.setFreeFont(FF18);                 // Select the font
-  tft.drawString(sFF4, 160, 60, GFXFF);// Print the string name of the font
+  tft.drawString(sFF4, 110, 30, GFXFF);// Print the string name of the font
   tft.setFreeFont(FF4);
-  tft.drawString(TEXT, 160, 120, GFXFF);
+  tft.drawString(TEXT, 120, 90, GFXFF);
   delay(1000);
   
   tft.fillScreen(TFT_BLACK);
   tft.setFreeFont(FF18);                 // Select the font
-  tft.drawString(sFF5, 160, 60, GFXFF);// Print the string name of the font
+  tft.drawString(sFF5, 110, 30, GFXFF);// Print the string name of the font
   tft.setFreeFont(FF5);
-  tft.drawString(TEXT, 160, 120, GFXFF);
+  tft.drawString(TEXT, 120, 90, GFXFF);
   delay(1000);
   //tft.fillScreen(TFT_BLACK);
   tft.setFreeFont(FF18);                 // Select the font
-  tft.drawString(sFF6, 160, 60, GFXFF);// Print the string name of the font
+  tft.drawString(sFF6, 100, 30, GFXFF);// Print the string name of the font
   tft.setFreeFont(FF6);
-  tft.drawString(TEXT, 160, 120, GFXFF);
+  tft.drawString(TEXT, 120, 90, GFXFF);
   delay(1000);
   //tft.fillScreen(TFT_BLACK);
   tft.setFreeFont(FF18);                 // Select the font
-  tft.drawString(sFF7, 160, 60, GFXFF);// Print the string name of the font
+  tft.drawString(sFF7, 110, 30, GFXFF);// Print the string name of the font
   tft.setFreeFont(FF7);
-  tft.drawString(TEXT, 160, 120, GFXFF);
+  tft.drawString(TEXT, 120, 90, GFXFF);
   delay(1000);
   //tft.fillScreen(TFT_BLACK);
   tft.setFreeFont(FF18);                 // Select the font
-  tft.drawString(sFF8, 160, 60, GFXFF);// Print the string name of the font
+  tft.drawString(sFF8, 110, 30, GFXFF);// Print the string name of the font
   tft.setFreeFont(FF8);
-  tft.drawString(TEXT, 160, 120, GFXFF);
+  tft.drawString(TEXT, 120, 90, GFXFF);
   delay(1000);
   
   tft.fillScreen(TFT_BLACK);
   tft.setFreeFont(FF18);                 // Select the font
-  tft.drawString(sFF9, 160, 60, GFXFF);// Print the string name of the font
+  tft.drawString(sFF9, 110, 30, GFXFF);// Print the string name of the font
   tft.setFreeFont(FF9);
-  tft.drawString(TEXT, 160, 120, GFXFF);
+  tft.drawString(TEXT, 120, 90, GFXFF);
   delay(1000);
   //tft.fillScreen(TFT_BLACK);
   tft.setFreeFont(FF18);                 // Select the font
-  tft.drawString(sFF10, 160, 60, GFXFF);// Print the string name of the font
+  tft.drawString(sFF10,110, 30, GFXFF);// Print the string name of the font
   tft.setFreeFont(FF10);
-  tft.drawString(TEXT, 160, 120, GFXFF);
+  tft.drawString(TEXT, 120, 90, GFXFF);
   delay(1000);
   //tft.fillScreen(TFT_BLACK);
   tft.setFreeFont(FF18);                 // Select the font
-  tft.drawString(sFF11, 160, 60, GFXFF);// Print the string name of the font
+  tft.drawString(sFF11,110, 30, GFXFF);// Print the string name of the font
   tft.setFreeFont(FF11);
-  tft.drawString(TEXT, 160, 120, GFXFF);
+  tft.drawString(TEXT, 120, 90, GFXFF);
   delay(1000);
   //tft.fillScreen(TFT_BLACK);
   tft.setFreeFont(FF18);                 // Select the font
-  tft.drawString(sFF12, 160, 60, GFXFF);// Print the string name of the font
+  tft.drawString(sFF12,110, 30, GFXFF);// Print the string name of the font
   tft.setFreeFont(FF12);
-    tft.drawString(TEXT, 160, 120, GFXFF);
+  tft.drawString(TEXT, 120, 90, GFXFF);
   delay(1000);
   
   tft.fillScreen(TFT_BLACK);
   tft.setFreeFont(FF18);                 // Select the font
-  tft.drawString(sFF13, 160, 60, GFXFF);// Print the string name of the font
+  tft.drawString(sFF13,110, 30, GFXFF);// Print the string name of the font
   tft.setFreeFont(FF13);
-  tft.drawString(TEXT, 160, 120, GFXFF);
+  tft.drawString(TEXT, 120, 90, GFXFF);
   delay(1000);
   //tft.fillScreen(TFT_BLACK);
   tft.setFreeFont(FF18);                 // Select the font
-  tft.drawString(sFF14, 160, 60, GFXFF);// Print the string name of the font
+  tft.drawString(sFF14,110, 30, GFXFF);// Print the string name of the font
   tft.setFreeFont(FF14);
-  tft.drawString(TEXT, 160, 120, GFXFF);
+  tft.drawString(TEXT, 120, 90, GFXFF);
   delay(1000);
   //tft.fillScreen(TFT_BLACK);
   tft.setFreeFont(FF18);                 // Select the font
-  tft.drawString(sFF15, 160, 60, GFXFF);// Print the string name of the font
+  tft.drawString(sFF15,110, 30, GFXFF);// Print the string name of the font
   tft.setFreeFont(FF15);
-  tft.drawString(TEXT, 160, 120, GFXFF);
+  tft.drawString(TEXT, 120, 90, GFXFF);
   delay(1000);
   //tft.fillScreen(TFT_BLACK);
   tft.setFreeFont(FF18);                 // Select the font
-  tft.drawString(sFF16, 160, 60, GFXFF);// Print the string name of the font
+  tft.drawString(sFF16,110, 30, GFXFF);// Print the string name of the font
   tft.setFreeFont(FF16);
-    tft.drawString(TEXT, 160, 120, GFXFF);
+  tft.drawString(TEXT, 120, 90, GFXFF);
   delay(1000);
   
   tft.fillScreen(TFT_BLACK);
   tft.setFreeFont(FF18);                 // Select the font
-  tft.drawString(sFF17, 160, 60, GFXFF);// Print the string name of the font
+  tft.drawString(sFF17,110, 30, GFXFF);// Print the string name of the font
   tft.setFreeFont(FF17);
-  tft.drawString(TEXT, 160, 120, GFXFF);
+  tft.drawString(TEXT, 120, 90, GFXFF);
   delay(1000);
   //tft.fillScreen(TFT_BLACK);
   tft.setFreeFont(FF18);                 // Select the font
-  tft.drawString(sFF18, 160, 60, GFXFF);// Print the string name of the font
+  tft.drawString(sFF18,110, 30, GFXFF);// Print the string name of the font
   tft.setFreeFont(FF18);
-  tft.drawString(TEXT, 160, 120, GFXFF);
+  tft.drawString(TEXT, 120, 90, GFXFF);
   delay(1000);
   //tft.fillScreen(TFT_BLACK);
   tft.setFreeFont(FF18);                 // Select the font
-  tft.drawString(sFF19, 160, 60, GFXFF);// Print the string name of the font
+  tft.drawString(sFF19,110, 30, GFXFF);// Print the string name of the font
   tft.setFreeFont(FF19);
-  tft.drawString(TEXT, 160, 120, GFXFF);
+  tft.drawString(TEXT, 120, 90, GFXFF);
   delay(1000);
   //tft.fillScreen(TFT_BLACK);
   tft.setFreeFont(FF18);                 // Select the font
-  tft.drawString(sFF20, 160, 60, GFXFF);// Print the string name of the font
+  tft.drawString(sFF20,110, 30, GFXFF);// Print the string name of the font
   tft.setFreeFont(FF20);
-    tft.drawString(TEXT, 160, 120, GFXFF);
+  tft.drawString(TEXT, 120, 90, GFXFF);
   delay(1000);
   
   tft.fillScreen(TFT_BLACK);
   tft.setFreeFont(FF18);                 // Select the font
-  tft.drawString(sFF21, 160, 60, GFXFF);// Print the string name of the font
+  tft.drawString(sFF21,110, 30, GFXFF);// Print the string name of the font
   tft.setFreeFont(FF21);
-  tft.drawString(TEXT, 160, 120, GFXFF);
+  tft.drawString(TEXT, 120, 90, GFXFF);
   delay(1000);
   //tft.fillScreen(TFT_BLACK);
   tft.setFreeFont(FF18);                 // Select the font
-  tft.drawString(sFF22, 160, 60, GFXFF);// Print the string name of the font
+  tft.drawString(sFF22,110, 30, GFXFF);// Print the string name of the font
   tft.setFreeFont(FF22);
-  tft.drawString(TEXT, 160, 120, GFXFF);
+  tft.drawString(TEXT, 120, 90, GFXFF);
   delay(1000);
   //tft.fillScreen(TFT_BLACK);
   tft.setFreeFont(FF18);                 // Select the font
-  tft.drawString(sFF23, 160, 60, GFXFF);// Print the string name of the font
+  tft.drawString(sFF23,110, 30, GFXFF);// Print the string name of the font
   tft.setFreeFont(FF23);
-  tft.drawString(TEXT, 160, 120, GFXFF);
+  tft.drawString(TEXT, 120, 90, GFXFF);
   delay(1000);
   //tft.fillScreen(TFT_BLACK);
   tft.setFreeFont(FF18);                 // Select the font
-  tft.drawString(sFF24, 160, 60, GFXFF);// Print the string name of the font
+  tft.drawString(sFF24,110, 30, GFXFF);// Print the string name of the font
   tft.setFreeFont(FF24);
-  tft.drawString(TEXT, 160, 120, GFXFF);
+  tft.drawString(TEXT, 120, 90, GFXFF);
   delay(1000);
   
   tft.fillScreen(TFT_BLACK);
   tft.setFreeFont(FF18);                 // Select the font
-  tft.drawString(sFF25, 160, 60, GFXFF);// Print the string name of the font
+  tft.drawString(sFF25,110, 30, GFXFF);// Print the string name of the font
   tft.setFreeFont(FF25);
-  tft.drawString(TEXT, 160, 120, GFXFF);
+  tft.drawString(TEXT, 120, 90, GFXFF);
   delay(1000);
   //tft.fillScreen(TFT_BLACK);
   tft.setFreeFont(FF18);                 // Select the font
-  tft.drawString(sFF26, 160, 60, GFXFF);// Print the string name of the font
+  tft.drawString(sFF26,110, 30, GFXFF);// Print the string name of the font
   tft.setFreeFont(FF26);
-  tft.drawString(TEXT, 160, 120, GFXFF);
+  tft.drawString(TEXT, 120, 90, GFXFF);
   delay(1000);
   //tft.fillScreen(TFT_BLACK);
   tft.setFreeFont(FF18);                 // Select the font
-  tft.drawString(sFF27, 160, 60, GFXFF);// Print the string name of the font
+  tft.drawString(sFF27,110, 30, GFXFF);// Print the string name of the font
   tft.setFreeFont(FF27);
-  tft.drawString(TEXT, 160, 120, GFXFF);
+  tft.drawString(TEXT, 120, 90, GFXFF);
   delay(1000);
   //tft.fillScreen(TFT_BLACK);
   tft.setFreeFont(FF18);                 // Select the font
-  tft.drawString(sFF28, 160, 60, GFXFF);// Print the string name of the font
+  tft.drawString(sFF28,110, 30, GFXFF);// Print the string name of the font
   tft.setFreeFont(FF28);
-  tft.drawString(TEXT, 160, 120, GFXFF);
+  tft.drawString(TEXT, 120, 90, GFXFF);
   delay(1000);
   
   tft.fillScreen(TFT_BLACK);
   tft.setFreeFont(FF18);                 // Select the font
-  tft.drawString(sFF29, 160, 60, GFXFF);// Print the string name of the font
+  tft.drawString(sFF29,110, 30, GFXFF);// Print the string name of the font
   tft.setFreeFont(FF29);
-  tft.drawString(TEXT, 160, 120, GFXFF);
+  tft.drawString(TEXT, 120, 90, GFXFF);
   delay(1000);
   //tft.fillScreen(TFT_BLACK);
   tft.setFreeFont(FF18);                 // Select the font
-  tft.drawString(sFF30, 160, 60, GFXFF);// Print the string name of the font
+  tft.drawString(sFF30,110, 30, GFXFF);// Print the string name of the font
   tft.setFreeFont(FF30);
-  tft.drawString(TEXT, 160, 120, GFXFF);
+  tft.drawString(TEXT, 120, 90, GFXFF);
   delay(1000);
   //tft.fillScreen(TFT_BLACK);
   tft.setFreeFont(FF18);                 // Select the font
-  tft.drawString(sFF31, 160, 60, GFXFF);// Print the string name of the font
+  tft.drawString(sFF31,110, 30, GFXFF);// Print the string name of the font
   tft.setFreeFont(FF31);
-  tft.drawString(TEXT, 160, 120, GFXFF);
+  tft.drawString(TEXT, 120, 90, GFXFF);
   delay(1000);
   //tft.fillScreen(TFT_BLACK);
   tft.setFreeFont(FF18);                 // Select the font
-  tft.drawString(sFF32, 160, 60, GFXFF);// Print the string name of the font
+  tft.drawString(sFF32,110, 30, GFXFF);// Print the string name of the font
   tft.setFreeFont(FF32);
-  tft.drawString(TEXT, 160, 120, GFXFF);
+  tft.drawString(TEXT, 120, 90, GFXFF);
   delay(1000);
   
   tft.fillScreen(TFT_BLACK);
   tft.setFreeFont(FF18);                 // Select the font
-  tft.drawString(sFF33, 160, 60, GFXFF);// Print the string name of the font
+  tft.drawString(sFF33,110, 30, GFXFF);// Print the string name of the font
   tft.setFreeFont(FF33);
-  tft.drawString(TEXT, 160, 120, GFXFF);
+  tft.drawString(TEXT, 120, 90, GFXFF);
   delay(1000);
   //tft.fillScreen(TFT_BLACK);
   tft.setFreeFont(FF18);                 // Select the font
-  tft.drawString(sFF34, 160, 60, GFXFF);// Print the string name of the font
+  tft.drawString(sFF34,110, 30, GFXFF);// Print the string name of the font
   tft.setFreeFont(FF34);
-  tft.drawString(TEXT, 160, 120, GFXFF);
+  tft.drawString(TEXT, 120, 90, GFXFF);
   delay(1000);
   //tft.fillScreen(TFT_BLACK);
   tft.setFreeFont(FF18);                 // Select the font
-  tft.drawString(sFF35, 160, 60, GFXFF);// Print the string name of the font
+  tft.drawString(sFF35,110, 30, GFXFF);// Print the string name of the font
   tft.setFreeFont(FF35);
-  tft.drawString(TEXT, 160, 120, GFXFF);
+  tft.drawString(TEXT, 120, 90, GFXFF);
   delay(1000);
   //tft.fillScreen(TFT_BLACK);
   tft.setFreeFont(FF18);                 // Select the font
-  tft.drawString(sFF36, 160, 60, GFXFF);// Print the string name of the font
+  tft.drawString(sFF36,110, 30, GFXFF);// Print the string name of the font
   tft.setFreeFont(FF36);
-  tft.drawString(TEXT, 160, 120, GFXFF);
+  tft.drawString(TEXT, 120, 90, GFXFF);
   delay(1000);
   
   tft.fillScreen(TFT_BLACK);
   tft.setFreeFont(FF18);                 // Select the font
-  tft.drawString(sFF37, 160, 60, GFXFF);// Print the string name of the font
+  tft.drawString(sFF37,110, 30, GFXFF);// Print the string name of the font
   tft.setFreeFont(FF37);
-  tft.drawString(TEXT, 160, 120, GFXFF);
+  tft.drawString(TEXT, 120, 90, GFXFF);
   delay(1000);
   //tft.fillScreen(TFT_BLACK);
   tft.setFreeFont(FF18);                 // Select the font
-  tft.drawString(sFF38, 160, 60, GFXFF);// Print the string name of the font
+  tft.drawString(sFF38,110, 30, GFXFF);// Print the string name of the font
   tft.setFreeFont(FF38);
-  tft.drawString(TEXT, 160, 120, GFXFF);
+  tft.drawString(TEXT, 120, 90, GFXFF);
   delay(1000);
   //tft.fillScreen(TFT_BLACK);
   tft.setFreeFont(FF18);                 // Select the font
-  tft.drawString(sFF39, 160, 60, GFXFF);// Print the string name of the font
+  tft.drawString(sFF39,110, 30, GFXFF);// Print the string name of the font
   tft.setFreeFont(FF39);
-  tft.drawString(TEXT, 160, 120, GFXFF);
+  tft.drawString(TEXT, 120, 90, GFXFF);
   delay(1000);
   //tft.fillScreen(TFT_BLACK);
   tft.setFreeFont(FF18);                 // Select the font
-  tft.drawString(sFF40, 160, 60, GFXFF);// Print the string name of the font
+  tft.drawString(sFF40,110, 30, GFXFF);// Print the string name of the font
   tft.setFreeFont(FF40);
-  tft.drawString(TEXT, 160, 120, GFXFF);
+  tft.drawString(TEXT, 120, 90, GFXFF);
   delay(1000);
   
   tft.fillScreen(TFT_BLACK);
   tft.setFreeFont(FF18);                 // Select the font
-  tft.drawString(sFF41, 160, 60, GFXFF);// Print the string name of the font
+  tft.drawString(sFF41,110, 30, GFXFF);// Print the string name of the font
   tft.setFreeFont(FF41);
-  tft.drawString(TEXT, 160, 120, GFXFF);
+  tft.drawString(TEXT, 120, 90, GFXFF);
   delay(1000);
   //tft.fillScreen(TFT_BLACK);
   tft.setFreeFont(FF18);                 // Select the font
-  tft.drawString(sFF42, 160, 60, GFXFF);// Print the string name of the font
+  tft.drawString(sFF42,110, 30, GFXFF);// Print the string name of the font
   tft.setFreeFont(FF42);
-  tft.drawString(TEXT, 160, 120, GFXFF);
+  tft.drawString(TEXT, 120, 90, GFXFF);
   delay(1000);
   //tft.fillScreen(TFT_BLACK);
   tft.setFreeFont(FF18);                 // Select the font
-  tft.drawString(sFF43, 160, 60, GFXFF);// Print the string name of the font
+  tft.drawString(sFF43,110, 30, GFXFF);// Print the string name of the font
   tft.setFreeFont(FF43);
-  tft.drawString(TEXT, 160, 120, GFXFF);
+  tft.drawString(TEXT, 120, 90, GFXFF);
   delay(1000);
   //tft.fillScreen(TFT_BLACK);
   tft.setFreeFont(FF18);                 // Select the font
-  tft.drawString(sFF44, 160, 60, GFXFF);// Print the string name of the font
+  tft.drawString(sFF44,110, 30, GFXFF);// Print the string name of the font
   tft.setFreeFont(FF44);
-  tft.drawString(TEXT, 160, 120, GFXFF);
+  tft.drawString(TEXT, 120, 90, GFXFF);
   delay(1000);
   
   tft.fillScreen(TFT_BLACK);
   tft.setFreeFont(FF18);                 // Select the font
-  tft.drawString(sFF45, 160, 60, GFXFF);// Print the string name of the font
+  tft.drawString(sFF45,110, 30, GFXFF);// Print the string name of the font
   tft.setFreeFont(FF45);
-  tft.drawString(TEXT, 160, 120, GFXFF);
+  tft.drawString(TEXT, 120, 90, GFXFF);
   delay(1000);
   //tft.fillScreen(TFT_BLACK);
   tft.setFreeFont(FF18);                 // Select the font
-  tft.drawString(sFF46, 160, 60, GFXFF);// Print the string name of the font
+  tft.drawString(sFF46,110, 30, GFXFF);// Print the string name of the font
   tft.setFreeFont(FF46);
-  tft.drawString(TEXT, 160, 120, GFXFF);
+  tft.drawString(TEXT, 120, 90, GFXFF);
   delay(1000);
   //tft.fillScreen(TFT_BLACK);
   tft.setFreeFont(FF18);                 // Select the font
-  tft.drawString(sFF47, 160, 60, GFXFF);// Print the string name of the font
+  tft.drawString(sFF47,110, 30, GFXFF);// Print the string name of the font
   tft.setFreeFont(FF47);
-  tft.drawString(TEXT, 160, 120, GFXFF);
+  tft.drawString(TEXT, 120, 90, GFXFF);
   delay(1000);
   //tft.fillScreen(TFT_BLACK);
   tft.setFreeFont(FF18);                 // Select the font
-  tft.drawString(sFF48, 160, 60, GFXFF);// Print the string name of the font
+  tft.drawString(sFF48,110, 30, GFXFF);// Print the string name of the font
   tft.setFreeFont(FF48);
-  tft.drawString(TEXT, 160, 120, GFXFF);
+  tft.drawString(TEXT, 120, 90, GFXFF);
   delay(1000);
 
 }
 
 // There follows a crude way of flagging that this example sketch needs fonts which
-// have not been enabled in the User_Setup.h file inside the TFT_HX8357 library.
+// have not been enbabled in the User_Setup.h file inside the TFT_HX8357 library.
 //
 // These lines produce errors during compile time if settings in User_Setup are not correct
 //
@@ -393,4 +393,3 @@ void loop() {
 #ifndef LOAD_GFXFF
 ERROR_Please_enable_LOAD_GFXFF_in_User_Setup!
 #endif
-
