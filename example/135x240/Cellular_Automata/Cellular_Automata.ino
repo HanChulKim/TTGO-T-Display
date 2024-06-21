@@ -13,8 +13,8 @@ TFT_eSPI tft = TFT_eSPI();       // Invoke custom library
 //#define GRIDY 60
 //#define CELLXY 4
 
-#define GRIDX 160
-#define GRIDY 120
+#define GRIDX 120 //67
+#define GRIDY 67  // 120
 #define CELLXY 2
 
 #define GEN_DELAY 0
@@ -162,4 +162,3 @@ int getNumberOfNeighbors(int x, int y) {
    OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
    SOFTWARE.
 */
-
