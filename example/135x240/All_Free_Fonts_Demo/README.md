@@ -7,8 +7,8 @@
   // #define FF18 &FreeSans12pt7b
   tft.setFreeFont(FF18);                 // 폰트 설정
   // #define sFF1 "Mono 9"
-  tft.drawString(sFF1, 160, 60, GFXFF);  // 정해진 좌표에 글짜 출력
+  tft.drawString(sFF1, 160, 60, GFXFF);  // 정해진 좌표에 글자 출력
   tft.setFreeFont(FF1);                  // 폰트 선택
   // #define TEXT "aA MWyz~12"
-  tft.drawString(TEXT, 160, 120, GFXFF); // 정해진 좌표에 글짜 출력
+  tft.drawString(TEXT, 160, 120, GFXFF); // 정해진 좌표에 글자 출력
 ```
