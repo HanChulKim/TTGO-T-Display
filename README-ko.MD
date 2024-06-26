@@ -1,5 +1,9 @@
 # TTGO T-Display
 
+현재 이 라이브러리는 오래된 라이브러리다. **툴** --> **라이브러리 관리** 에서 **TFT_eSPI**를 찾아서 설치해도 동작에는 문제가 없다. 
+
+현재 여기에는 에제코드가 일부 달라서 업데이트한 소스 코드를 머지 하지는 않았다.
+
 ## Quick start
 
 1. **USB 드라이버를 설치한다.**, [CHxxx Series MAC driver](http://www.wch-ic.com/downloads/CH34XSER_MAC_ZIP.html) , [CHxxx Series Windows driver](http://www.wch-ic.com/downloads/CH343SER_ZIP.html),[CP21xx Series driver](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers?tab=downloads)
