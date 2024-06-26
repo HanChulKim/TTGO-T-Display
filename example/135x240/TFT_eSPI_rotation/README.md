@@ -14,3 +14,5 @@ tft.setRotation(cur_location);
 **setRotation** 값에 대한 그림은 아래와 같다. 녹색 상자가 시작점이고 빨간색 점이 끝점이다.
 
 ![](image/rotation_0.png) ![](image/rotation_1.png) ![](image/rotation_2.png) ![](image/rotation_3.png)
+
+이 예제에 포함되어 있는 **button2** 는 TFT_eSPI에 있던 FactoryTest 예제에서 가지고 왔다.
